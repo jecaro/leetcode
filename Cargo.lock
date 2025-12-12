@@ -7,5 +7,9 @@ name = "merged_sorted_array"
 version = "0.1.0"
 
 [[package]]
+name = "remove_duplicates"
+version = "0.1.0"
+
+[[package]]
 name = "remove_element"
 version = "0.1.0"
