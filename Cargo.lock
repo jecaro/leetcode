@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "container_with_most_water"
+version = "0.1.0"
+
+[[package]]
 name = "is_palindrome"
 version = "0.1.0"
 
@@ -24,10 +28,6 @@ version = "0.1.0"
 
 [[package]]
 name = "remove_element"
-version = "0.1.0"
-
-[[package]]
-name = "some"
 version = "0.1.0"
 
 [[package]]
