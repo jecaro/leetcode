@@ -25,3 +25,7 @@ version = "0.1.0"
 [[package]]
 name = "remove_element"
 version = "0.1.0"
+
+[[package]]
+name = "two_sum_2"
+version = "0.1.0"
