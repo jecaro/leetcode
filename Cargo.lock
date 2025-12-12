@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "is_palindrome"
+version = "0.1.0"
+
+[[package]]
 name = "merged_sorted_array"
 version = "0.1.0"
 
