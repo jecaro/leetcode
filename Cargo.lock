@@ -51,6 +51,10 @@ name = "remove_element"
 version = "0.1.0"
 
 [[package]]
+name = "simplify_path"
+version = "0.1.0"
+
+[[package]]
 name = "spiral_matrix"
 version = "0.1.0"
 
