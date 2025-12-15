@@ -27,6 +27,10 @@ name = "merge_intervals"
 version = "0.1.0"
 
 [[package]]
+name = "merge_two_sorted_lists"
+version = "0.1.0"
+
+[[package]]
 name = "merged_sorted_array"
 version = "0.1.0"
 
