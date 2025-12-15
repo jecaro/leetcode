@@ -51,6 +51,10 @@ name = "spiral_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "summary_ranges"
+version = "0.1.0"
+
+[[package]]
 name = "two_sum_2"
 version = "0.1.0"
 
