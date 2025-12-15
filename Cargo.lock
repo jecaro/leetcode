@@ -27,6 +27,10 @@ name = "minimum_size_subarray_sum"
 version = "0.1.0"
 
 [[package]]
+name = "ransom_note"
+version = "0.1.0"
+
+[[package]]
 name = "remove_duplicates"
 version = "0.1.0"
 
