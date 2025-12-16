@@ -11,6 +11,10 @@ name = "average_of_levels_in_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "binary_tree_right_side_view"
+version = "0.1.0"
+
+[[package]]
 name = "construct_binary_tree_from_preorder_and_inorder_traversal"
 version = "0.1.0"
 
