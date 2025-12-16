@@ -55,6 +55,10 @@ name = "merged_sorted_array"
 version = "0.1.0"
 
 [[package]]
+name = "minimum_absolute_difference_in_bst"
+version = "0.1.0"
+
+[[package]]
 name = "minimum_size_subarray_sum"
 version = "0.1.0"
 
