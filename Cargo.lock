@@ -27,6 +27,10 @@ name = "longest_substring_without_repeating_characters"
 version = "0.1.0"
 
 [[package]]
+name = "maximum_depth_of_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "merge_intervals"
 version = "0.1.0"
 
